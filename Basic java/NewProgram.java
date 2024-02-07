@@ -2,7 +2,6 @@ public class NewProgram {
 
     public static void main(String[] args) {
         class Teacher {
-
             void Read(String x, String y, int z) {
                 String name = x;
                 String gender = y;
